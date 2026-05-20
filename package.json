@@ -1,5 +1,5 @@
 {
-  "name": "loop-guardrail",
+  "name": "@p-vbordei/loop-guardrail",
   "version": "1.0.0",
   "description": "Sliding-window tool-call loop guardrails for LLM agents",
   "main": "./dist/index.js",
